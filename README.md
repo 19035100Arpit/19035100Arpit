@@ -1,52 +1,67 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://github.com/19035100Arpit/19035100Arpit/blob/main/Github%20Banner.jpg" />
-</p>
-
 <!-- Animated Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=001b94&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Arpit+Tripathi;AI%2FML+Engineer+at+IndiGo;Building+Scalable+AI+Systems;Aviation+%E2%9C%88%EF%B8%8F+%2B+AI+%F0%9F%A4%96;Turning+Data+into+Decisions" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=001b94&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Arpit+Tripathi;AI%2FML+Engineer+at+IndiGo;Building+Scalable+AI+Systems;Agentic+Workflows+%7C+LLMs+%7C+Backend;Turning+Ideas+into+Production+Systems" />
 </p>
 
 <h1 align="center">Arpit Tripathi</h1>
-<h3 align="center">AI/ML Engineer | Aviation Intelligence Systems ✈️</h3>
+<h3 align="center">AI/ML Engineer | Backend Systems | Agentic AI Workflows ✈️</h3>
 
 <!-- Stack Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/AI-Engineer-001b94?style=for-the-badge&logo=airflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine-Learning-001b94?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Deep-Learning-001b94?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Data-Science-001b94?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI-Engineer-001b94?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Backend-Engineer-001b94?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DevOps-001b94?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MLOps-001b94?style=for-the-badge&logo=kubeflow&logoColor=white"/>
 </p>
 
 <hr/>
 
 <h2>🚀 About Me</h2>
 <ul>
-  <li>✈️ Building <b>AI systems for aviation</b> focused on efficiency & scale</li>
-  <li>🧠 Specialized in <b>Machine Learning, Optimization & Time-Series</b></li>
+  <li>✈️ Building <b>Agentic AI workflows</b> for real-world aviation systems</li>
+  <li>⚙️ Strong focus on <b>scalable backend + production ML systems</b></li>
+  <li>🧠 Expertise in <b>Machine Learning, Optimization & Time-Series</b></li>
   <li>🔭 AI/ML Engineer at <b>IndiGo</b></li>
-  <li>⚡ Strong focus on <b>production-grade ML systems</b></li>
 </ul>
 
 <hr/>
 
-<h2>🔍 Currently Exploring</h2>
+<h2>🔍 Currently Working On</h2>
 <ul>
   <li>🧠 Large Language Models (LLMs)</li>
-  <li>👁️ Computer Vision (Detection + Tracking)</li>
-  <li>⚙️ MLOps & CI/CD for ML</li>
-  <li>📊 Distributed Training & Scaling</li>
+  <li>🤖 Agentic AI Systems (multi-step reasoning workflows)</li>
+  <li>⚙️ Backend APIs & scalable system design</li>
+  <li>🚀 MLOps (CI/CD, model deployment)</li>
 </ul>
 
 <hr/>
 
-<h2>🛠️ Tech Toolbox</h2>
+<h2>💻 Programming Languages</h2>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,sql" />
+</p>
 
-<b>Languages:</b> Python | SQL | JavaScript <br/><br/>
-<b>ML/AI:</b> PyTorch | TensorFlow | Scikit-learn | Pandas <br/><br/>
-<b>Cloud:</b> AWS | GCP <br/><br/>
-<b>Tools:</b> Docker | Jenkins | Git
+<h2>⚙️ Frameworks & Libraries</h2>
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,fastapi,nodejs,express" />
+</p>
+
+<h2>🧠 AI / ML Stack</h2>
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-001b94?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-001b94?style=for-the-badge&logo=pandas&logoColor=white"/>
+</p>
+
+<h2>☁️ DevOps & Cloud</h2>
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,jenkins,git" />
+</p>
+
+<h2>🗄️ Backend as a Service (BaaS)</h2>
+<p>
+  <img src="https://skillicons.dev/icons?i=firebase,supabase" />
+</p>
 
 <hr/>
 
@@ -57,10 +72,10 @@
 <a href="https://github.com/19035100Arpit/Ai-flight-crew-rostering">🔗 View Project</a>
 </p>
 <ul>
-  <li>Designed an AI-driven crew rostering system to optimize airline staff scheduling under complex constraints (duty hours, rest periods)</li>
-  <li>Modeled the problem as a combinatorial optimization task ensuring full flight coverage</li>
-  <li>Improved scheduling efficiency and reduced conflicts using constraint-based logic</li>
-  <li>Built scalable pipeline for handling large NP-hard scheduling problems</li>
+  <li>Designed an AI-driven crew rostering system solving complex airline scheduling constraints</li>
+  <li>Modeled as combinatorial optimization ensuring efficient crew allocation</li>
+  <li>Reduced scheduling conflicts and improved operational efficiency</li>
+  <li>Built scalable solution for NP-hard scheduling problems</li>
 </ul>
 
 <h3>🎨 Generative AI – Image Generation using GAN</h3>
@@ -68,21 +83,19 @@
 <a href="https://github.com/19035100Arpit/Gen-AI---Image-Generation-using-GAN">🔗 View Project</a>
 </p>
 <ul>
-  <li>Built a GAN model to generate realistic images using adversarial training</li>
-  <li>Implemented generator-discriminator architecture using deep learning frameworks</li>
-  <li>Improved training stability through loss tuning and architecture optimization</li>
-  <li>Explored applications in synthetic data generation and computer vision</li>
+  <li>Developed GAN architecture for realistic image generation</li>
+  <li>Implemented adversarial training (Generator vs Discriminator)</li>
+  <li>Improved model stability and output quality through tuning</li>
 </ul>
 
-<h3>🧬 Sparse RBM for Gene Selection & Classification</h3>
+<h3>🧬 Sparse RBM for Gene Selection</h3>
 <p>
 <a href="https://github.com/19035100Arpit/Implement-the-Sparse-RBM-for-gene-selection-and-classification">🔗 View Project</a>
 </p>
 <ul>
-  <li>Implemented Sparse RBM for feature selection in high-dimensional genomic data</li>
-  <li>Reduced feature space and improved classification performance</li>
-  <li>Extracted latent representations using unsupervised learning techniques</li>
-  <li>Handled high-dimensional, low-sample-size bioinformatics datasets</li>
+  <li>Built Sparse RBM for feature selection in high-dimensional datasets</li>
+  <li>Improved classification accuracy via dimensionality reduction</li>
+  <li>Applied unsupervised learning to extract meaningful patterns</li>
 </ul>
 
 <hr/>
@@ -111,14 +124,6 @@
 
 <hr/>
 
-<h2>👀 Visitor Count</h2>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=19035100arpit&label=Profile%20Views&color=001b94&style=flat" />
-</p>
-
-<hr/>
-
 <h2>🌐 Connect With Me</h2>
 
 <p align="center">
@@ -128,6 +133,9 @@
 <a href="mailto:tripathikiot@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
+<a href="https://github.com/19035100Arpit">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
 </p>
 
 <hr/>
@@ -135,5 +143,5 @@
 <h2>⚡ Fun Fact</h2>
 
 <p align="center">
-I build AI systems that make aviation smarter, faster, and more efficient ✈️
+I design systems where AI doesn't just predict — it acts 🚀
 </p>
