@@ -1,5 +1,7 @@
 ![logo](https://github.com/19035100Arpit/19035100Arpit/blob/main/Github%20Banner.jpg)
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=001b94&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Arpit+Tripathi;AI%2FML+Engineer+at+IndiGo;Building+Scalable+AI+Systems;Aviation+%E2%9C%88%EF%B8%8F+%2B+AI+%F0%9F%A4%96;Turning+Data+into+Decisions" />
+</p>
 <h1 align="center">Hi 👋, I'm Arpit Tripathi</h1>
 <h3 align="center">AI/ML Engineer | Building Intelligent Systems at Scale ✈️</h3>
 
