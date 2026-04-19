@@ -1,10 +1,17 @@
-![logo](https://github.com/19035100Arpit/19035100Arpit/blob/main/Github%20Banner.jpg)
+<!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=001b94&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Arpit+Tripathi;AI%2FML+Engineer+at+IndiGo;Building+Scalable+AI+Systems;Aviation+%E2%9C%88%EF%B8%8F+%2B+AI+%F0%9F%A4%96;Turning+Data+into+Decisions" />
+  <img src="https://github.com/19035100Arpit/19035100Arpit/blob/main/Github%20Banner.jpg" />
 </p>
-<h1 align="center">Hi 👋, I'm Arpit Tripathi</h1>
-<h3 align="center">AI/ML Engineer | Building Intelligent Systems at Scale ✈️</h3>
 
+<!-- Animated Typing -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=001b94&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Arpit+Tripathi;AI%2FML+Engineer+at+IndiGo;Building+Scalable+AI+Systems;Aviation+%E2%9C%88%EF%B8%8F+%2B+AI+%F0%9F%A4%96;Turning+Data+into+Decisions" />
+</p>
+
+<h1 align="center">Arpit Tripathi</h1>
+<h3 align="center">AI/ML Engineer | Aviation Intelligence Systems ✈️</h3>
+
+<!-- Stack Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/AI-Engineer-001b94?style=for-the-badge&logo=airflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Machine-Learning-001b94?style=for-the-badge&logo=tensorflow&logoColor=white"/>
@@ -12,87 +19,121 @@
   <img src="https://img.shields.io/badge/Data-Science-001b94?style=for-the-badge&logo=databricks&logoColor=white"/>
 </p>
 
----
+<hr/>
 
-### 🚀 About Me
+<h2>🚀 About Me</h2>
+<ul>
+  <li>✈️ Building <b>AI systems for aviation</b> focused on efficiency & scale</li>
+  <li>🧠 Specialized in <b>Machine Learning, Optimization & Time-Series</b></li>
+  <li>🔭 AI/ML Engineer at <b>IndiGo</b></li>
+  <li>⚡ Strong focus on <b>production-grade ML systems</b></li>
+</ul>
 
-- ✈️ Working at the intersection of **Aviation ✈️ and AI 🤖**, solving real-world problems with scalable ML systems  
-- 💡 Focused on **efficiency, optimization, and intelligent decision-making systems**  
-- 🔭 Currently working as an **AI/ML Engineer at IndiGo**  
-- ⚡ Passionate about turning **data into actionable insights at scale**
+<hr/>
 
----
+<h2>🔍 Currently Exploring</h2>
+<ul>
+  <li>🧠 Large Language Models (LLMs)</li>
+  <li>👁️ Computer Vision (Detection + Tracking)</li>
+  <li>⚙️ MLOps & CI/CD for ML</li>
+  <li>📊 Distributed Training & Scaling</li>
+</ul>
 
-### 🔍 Currently Exploring
+<hr/>
 
-- 🧠 Large Language Models (LLMs)
-- 👁️ Computer Vision Systems
-- ⚙️ MLOps & Model Deployment
-- 📊 Advanced Time-Series Forecasting
+<h2>🛠️ Tech Toolbox</h2>
 
----
+<b>Languages:</b> Python | SQL | JavaScript <br/><br/>
+<b>ML/AI:</b> PyTorch | TensorFlow | Scikit-learn | Pandas <br/><br/>
+<b>Cloud:</b> AWS | GCP <br/><br/>
+<b>Tools:</b> Docker | Jenkins | Git
 
-### 🛠️ Tech Toolbox
+<hr/>
 
-**Languages & Frameworks**
-- Python | SQL | JavaScript  
+<h2>📂 Featured Projects</h2>
 
-**Machine Learning & AI**
-- PyTorch | TensorFlow | Scikit-learn | Pandas  
+<h3>✈️ AI Flight Crew Rostering</h3>
+<p>
+<a href="https://github.com/19035100Arpit/Ai-flight-crew-rostering">🔗 View Project</a>
+</p>
+<ul>
+  <li>Designed an AI-driven crew rostering system to optimize airline staff scheduling under complex constraints (duty hours, rest periods)</li>
+  <li>Modeled the problem as a combinatorial optimization task ensuring full flight coverage</li>
+  <li>Improved scheduling efficiency and reduced conflicts using constraint-based logic</li>
+  <li>Built scalable pipeline for handling large NP-hard scheduling problems</li>
+</ul>
 
-**Cloud & DevOps**
-- AWS | GCP | Docker | Jenkins  
+<h3>🎨 Generative AI – Image Generation using GAN</h3>
+<p>
+<a href="https://github.com/19035100Arpit/Gen-AI---Image-Generation-using-GAN">🔗 View Project</a>
+</p>
+<ul>
+  <li>Built a GAN model to generate realistic images using adversarial training</li>
+  <li>Implemented generator-discriminator architecture using deep learning frameworks</li>
+  <li>Improved training stability through loss tuning and architecture optimization</li>
+  <li>Explored applications in synthetic data generation and computer vision</li>
+</ul>
 
----
+<h3>🧬 Sparse RBM for Gene Selection & Classification</h3>
+<p>
+<a href="https://github.com/19035100Arpit/Implement-the-Sparse-RBM-for-gene-selection-and-classification">🔗 View Project</a>
+</p>
+<ul>
+  <li>Implemented Sparse RBM for feature selection in high-dimensional genomic data</li>
+  <li>Reduced feature space and improved classification performance</li>
+  <li>Extracted latent representations using unsupervised learning techniques</li>
+  <li>Handled high-dimensional, low-sample-size bioinformatics datasets</li>
+</ul>
 
-### 📂 Projects
+<hr/>
 
-- ✈️ **Predictive Maintenance System**  
-  → Forecasting aircraft component failures using time-series models  
+<h2>📊 GitHub Performance</h2>
 
-- 🛫 **Route Optimization Engine**  
-  → AI-driven optimization for flight scheduling and fuel efficiency  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=19035100arpit&show_icons=true&title_color=001b94&icon_color=001b94&text_color=000000&bg_color=ffffff" />
+</p>
 
-- 📊 **Demand Forecasting Model**  
-  → Passenger demand prediction using ML & deep learning  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=19035100arpit&theme=default&ring=001b94&fire=001b94&currStreakLabel=001b94" />
+</p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=19035100arpit&layout=compact&title_color=001b94&text_color=000000&bg_color=ffffff" />
+</p>
 
-### 🌐 Connect With Me
+<hr/>
 
-<p align="left">
-<a href="https://www.linkedin.com/in/arpittripathi20" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+<h2>🔥 Contribution Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=19035100arpit&bg_color=ffffff&color=001b94&line=001b94&point=000000" />
+</p>
+
+<hr/>
+
+<h2>👀 Visitor Count</h2>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=19035100arpit&label=Profile%20Views&color=001b94&style=flat" />
+</p>
+
+<hr/>
+
+<h2>🌐 Connect With Me</h2>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/arpittripathi20">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 <a href="mailto:tripathikiot@gmail.com">
-  <img align="center" src="https://img.icons8.com/fluency/48/gmail-new.png" height="30" width="40"/>
+  <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 </p>
 
----
+<hr/>
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=19035100arpit&show_icons=true&theme=default&title_color=001b94&icon_color=001b94&text_color=000000&bg_color=ffffff" />
-</p>
+<h2>⚡ Fun Fact</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=19035100arpit&show_icons=true&locale=en&layout=compact&title_color=001b94&text_color=000000&bg_color=ffffff" />
+I build AI systems that make aviation smarter, faster, and more efficient ✈️
 </p>
-
----
-
-### ☕ Support
-
-<p align="center">
-<a href="https://www.buymeacoffee.com/">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a Coffee" />
-</a>
-</p>
-
----
-
-### ⚡ Fun Fact
-
-> I turn ☕ coffee into 🤖 AI models that optimize ✈️ aviation systems 😄
